@@ -91,7 +91,7 @@
 ## AI Agents
 
 - [Claude Code](https://claude.ai/claude-code) — Agentic coding in terminal
-- [AutoGPT](https://autogpt.net) — Autonomous AI agent
+- [AutoGPT](https://agpt.co) — Autonomous AI agent
 - [CrewAI](https://crewai.com) — Multi-agent orchestration
 - [LangGraph](https://langchain.com/langgraph) — Agent workflows as graphs
 - [AgentOps](https://agentops.ai) — Observability for AI agents
