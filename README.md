@@ -109,6 +109,7 @@
 - [Ideogram](https://ideogram.ai) — Best text-in-image generation
 - [Leonardo.ai](https://leonardo.ai) — AI image generation for creatives
 - [Playground](https://playground.com) — Free AI image generation
+- [PhotoRestore.ai](https://photorestore.ai) — AI-powered restoration of old/damaged photos, scratch repair, B&W colorization
 
 ## Video Generation
 
