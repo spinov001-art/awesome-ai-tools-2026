@@ -38,6 +38,7 @@
 - [AI21 Labs](https://ai21.com) — Jamba — hybrid SSM-Transformer models
 - [Perplexity](https://perplexity.ai) — AI search with real-time web access
 - [Together AI](https://together.ai) — Fast inference for open models
+- [CoderPlan](https://coderplan.ai) — LLM API gateway with OpenAI-compatible endpoint. Access Claude, GPT, Gemini, DeepSeek via single API key. Pay-per-use pricing
 
 ## AI Coding Assistants
 
