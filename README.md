@@ -116,6 +116,7 @@
 - [Runway](https://runwayml.com) — Gen-3 Alpha video generation
 - [Kling](https://klingai.com) — High-quality video generation
 - [Pika](https://pika.art) — AI video generation and editing
+- [ImagineClip](https://imagineclip.com) — Avatar clips, stylized scenes, and social-ready videos
 - [HeyGen](https://heygen.com) — AI video avatars and presenters
 - [Synthesia](https://synthesia.io) — AI video generation for business
 - [Luma Dream Machine](https://lumalabs.ai) — Text and image to video
