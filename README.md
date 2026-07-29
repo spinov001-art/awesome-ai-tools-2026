@@ -109,6 +109,7 @@
 - [Ideogram](https://ideogram.ai) — Best text-in-image generation
 - [Leonardo.ai](https://leonardo.ai) — AI image generation for creatives
 - [Playground](https://playground.com) — Free AI image generation
+- [YingTu](https://yingtu.ai/en) — Browser playground for testing AI image and video API routes before integration
 
 ## Video Generation
 
