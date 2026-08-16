@@ -118,6 +118,7 @@
 - [Pika](https://pika.art) — AI video generation and editing
 - [HeyGen](https://heygen.com) — AI video avatars and presenters
 - [Synthesia](https://synthesia.io) — AI video generation for business
+- [videos.social](https://videos.social/?utm_source=spinov001-awesome-ai-tools-2026&utm_medium=directory&utm_campaign=listing-wave-d) — Turns blogs, PDFs, and prompts into editable faceless videos.
 - [Luma Dream Machine](https://lumalabs.ai) — Text and image to video
 
 ## Audio & Speech
