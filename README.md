@@ -99,6 +99,7 @@
 - [Composio](https://composio.dev) — 200+ tool integrations for AI agents
 - [Browserbase](https://browserbase.com) — Headless browsers for AI agents
 - [Rivet](https://rivet.ironcladapp.com) — Visual AI agent builder
+- [Agent QA](https://github.com/vostride/agent-qa) — Source-available agent for natural-language web and mobile application testing, with CLI, MCP, and execution memory
 
 ## Image Generation
 
