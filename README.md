@@ -119,6 +119,7 @@
 - [HeyGen](https://heygen.com) — AI video avatars and presenters
 - [Synthesia](https://synthesia.io) — AI video generation for business
 - [Luma Dream Machine](https://lumalabs.ai) — Text and image to video
+- [LiveFaceSwap Desktop](https://livefaceswap.ai/desktop) — Cloud-based live face swapping with virtual-camera output for streaming and video calls.
 
 ## Audio & Speech
 
