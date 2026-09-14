@@ -99,6 +99,7 @@
 - [Composio](https://composio.dev) — 200+ tool integrations for AI agents
 - [Browserbase](https://browserbase.com) — Headless browsers for AI agents
 - [Rivet](https://rivet.ironcladapp.com) — Visual AI agent builder
+- [EinfachAI](https://einfachai.com) — AI automation platform for DACH businesses: Shopware integration, agentic workflows, no-code automation
 
 ## Image Generation
 
