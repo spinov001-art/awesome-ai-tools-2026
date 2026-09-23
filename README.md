@@ -157,6 +157,7 @@
 - [Deepnote](https://deepnote.com) — AI notebooks for data teams
 
 ## AI Infrastructure
+- [NextReset](https://nextreset.ai/) - Independent, source-linked Codex reset history and official AI incident references, with a browser-local personal timer; no private account access or timing guarantees.
 
 - [Hugging Face](https://huggingface.co) — ML model hub and tools
 - [Replicate](https://replicate.com) — Run ML models with an API
