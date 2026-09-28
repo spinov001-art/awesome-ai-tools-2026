@@ -109,6 +109,7 @@
 - [Ideogram](https://ideogram.ai) — Best text-in-image generation
 - [Leonardo.ai](https://leonardo.ai) — AI image generation for creatives
 - [Playground](https://playground.com) — Free AI image generation
+- [Raphael](https://raphael.app) — Free AI image generator (text-to-image)
 
 ## Video Generation
 
