@@ -19,6 +19,7 @@
 - [Audio & Speech](#audio--speech)
 - [AI Search](#ai-search)
 - [AI Writing](#ai-writing)
+- [Translation](#translation)
 - [AI for Data](#ai-for-data)
 - [AI Infrastructure](#ai-infrastructure)
 - [AI Safety & Evaluation](#ai-safety--evaluation)
@@ -147,6 +148,10 @@
 - [Grammarly](https://grammarly.com) — AI writing assistant
 - [Notion AI](https://notion.so) — AI-powered workspace
 - [Lex](https://lex.page) — AI writing tool with inline suggestions
+
+## Translation
+
+- [AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator/) — Ficory LLC의 기업급 만화 리더는 개인의 일괄 번역과 맞춤 번역을 지원하며, 스튜디오에 완전한 온라인 Photoshop 스타일 편집기를 제공합니다. API는 개인 작업 흐름에 번역을 연결하고, 사용자는 제품이 지원하는 모든 번역 언어를 이용합니다. 제한된 무료 이용과 유료 기능을 함께 제공합니다.
 
 ## AI for Data
 
