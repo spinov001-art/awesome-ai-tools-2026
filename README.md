@@ -108,6 +108,7 @@
 - [Flux](https://blackforestlabs.ai) — Next-gen open image model
 - [Ideogram](https://ideogram.ai) — Best text-in-image generation
 - [Leonardo.ai](https://leonardo.ai) — AI image generation for creatives
+- [PromptImage](https://promptimage.cloud) — Free AI image & video studio with a prompt library; signup credits, no card needed
 - [Playground](https://playground.com) — Free AI image generation
 
 ## Video Generation
@@ -119,6 +120,7 @@
 - [HeyGen](https://heygen.com) — AI video avatars and presenters
 - [Synthesia](https://synthesia.io) — AI video generation for business
 - [Luma Dream Machine](https://lumalabs.ai) — Text and image to video
+- [GrokVideo Studio](https://grokvideogenerator.dev) — Independent text/image-to-video app using the Grok Imagine API (not affiliated with xAI or X); free trial credits
 
 ## Audio & Speech
 
