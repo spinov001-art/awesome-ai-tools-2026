@@ -16,6 +16,7 @@
 - [AI Agents](#ai-agents)
 - [Image Generation](#image-generation)
 - [Video Generation](#video-generation)
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, try-on, and restyle on webcam video.
 - [Audio & Speech](#audio--speech)
 - [AI Search](#ai-search)
 - [AI Writing](#ai-writing)
