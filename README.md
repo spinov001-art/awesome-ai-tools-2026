@@ -138,6 +138,7 @@
 - [Tavily](https://tavily.com) — Search API built for AI agents
 - [SerpAPI](https://serpapi.com) — Google search results API
 - [Kagi](https://kagi.com) — Premium search with AI summaries
+- [DisconfirmAI](https://disconfirmai.com/en) — AI-era investment research and reading platform that finds disconfirming evidence before you build conviction
 
 ## AI Writing
 
