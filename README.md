@@ -119,6 +119,8 @@
 - [HeyGen](https://heygen.com) — AI video avatars and presenters
 - [Synthesia](https://synthesia.io) — AI video generation for business
 - [Luma Dream Machine](https://lumalabs.ai) — Text and image to video
+- [Cyanvid](https://cyanvid.com/?utm_source=spinov001-art-awesome-ai-tools-2026&utm_medium=directory&utm_campaign=backlinks) — AI video generator from text or images; credit quotes before generate
+- [Barz Studio](https://barzvideo.com/?utm_source=spinov001-art-awesome-ai-tools-2026&utm_medium=directory&utm_campaign=backlinks) — Free browser rap lyric video maker; beat-reactive captions, export 9:16 WebM
 
 ## Audio & Speech
 
