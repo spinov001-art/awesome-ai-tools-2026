@@ -119,6 +119,7 @@
 - [HeyGen](https://heygen.com) — AI video avatars and presenters
 - [Synthesia](https://synthesia.io) — AI video generation for business
 - [Luma Dream Machine](https://lumalabs.ai) — Text and image to video
+- [MotionCasa](https://motioncasa.com/) — Turns real estate listing photos into videos with simulated camera movement
 
 ## Audio & Speech
 
